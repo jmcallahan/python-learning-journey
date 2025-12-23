@@ -48,9 +48,8 @@ I'm a U.S. Navy veteran (QM2, 2003-2007) and former Rivian operations leader tra
   - Slightly faster repo setup
 #### Code
 
-```
-  python
-  print("Hello, world!")
+```python
+print("Hello, world!")
 ```
 #### Next Steps
   - Learn about variables and data types
