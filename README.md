@@ -58,7 +58,8 @@ print("Hello, world!")
 </details>
 
 ---
-**Note:** This is a learning repository. Code quality improves over time by design.
+  <p>**Note:** This is a learning repository. Code quality improves over time by design.</p>
+  
 ---
 <!---
 
