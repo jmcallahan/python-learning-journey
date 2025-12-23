@@ -58,8 +58,10 @@ print("Hello, world!")
 </details>
 
 ---
-<!---
 **Note:** This is a learning repository. Code quality improves over time by design.
+---
+<!---
+
 
 ## **Why This README Matters**
 
