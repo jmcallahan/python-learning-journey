@@ -41,11 +41,13 @@ I'm a U.S. Navy veteran (QM2, 2003-2007) and former Rivian operations leader tra
 ## Progress Log
 <details>
   <summary><h3>12.22.2025</h3></summary>
+  
 #### Progress notes:
   - Repository created
 #### What I learned today:
   - Slightly faster repo setup
 #### Code
+
 ```
   python
   print("Hello, world!")
@@ -53,6 +55,7 @@ I'm a U.S. Navy veteran (QM2, 2003-2007) and former Rivian operations leader tra
 #### Next Steps
   - Learn about variables and data types
   - Explore basic operators
+
 </details>
 
 ---
