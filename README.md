@@ -40,6 +40,24 @@ I'm a U.S. Navy veteran (QM2, 2003-2007) and former Rivian operations leader tra
 
 ## Progress Log
 <details>
+  <summary><h3>12.23.2025</h3></summary>
+  
+#### Progress notes:
+  -  
+#### What I learned today:
+  -  
+#### Code
+
+```python
+ 
+```
+#### Next Steps
+  - 
+  - 
+
+</details>
+---
+<details>
   <summary><h3>12.22.2025</h3></summary>
   
 #### Progress notes:
