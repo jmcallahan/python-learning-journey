@@ -40,20 +40,51 @@ I'm a U.S. Navy veteran (QM2, 2003-2007) and former Rivian operations leader tra
 
 ## Progress Log
 <details>
-  <summary><h3>12.23.2025</h3></summary>
+  <summary><h3>12.24.2025</h3></summary>
   
 #### Progress notes:
-  -  
+  -  Dug into variables a bit
 #### What I learned today:
-  -  
+  -  Variables are case sensitive
+  -  How to add notes, who knew programmers were the real hashtag O.G.s? Step aside Paris Hilton.
 #### Code
 
 ```python
- 
+ # day two of learning python
+
+
+name = 'Jason Callahan'
+birth_day = '8th'
+birth_month = 'March'
+birth_year = 1983
+
+# trying to figure out how to get current_year to populate automatically
+# current_year = datetime.datetime.now().year
+# pull current year from system clock and compute age
+
+current_year = datetime.datetime.now().year
+age = current_year - birth_year
+
+# trying to figure out how to get age to calculate automatically based on birth_year
+# age = current_year - birth_year
+
+current_mood = 'a-okay, baby!'
+
+print("hissss....")
+print("I am a snake!")
+print("You are not a snake!")
+print("I am " + name + " and I am " + str(age) + " years old.")
+print("My birthday is on the " + birth_day + " day of " + birth_month + " of the year " + birth_year + " of the muthafuckin' lerd!")
+print("Hail to the king, baby!")
+print("and right meow, I am feeling " + current_mood)
+print("alright, meow I'm outtie!")
+print("hissss....")
+
+# added some comments to help myself figure out what I was doing and trying to achieve when I come back to this...
 ```
 #### Next Steps
-  - 
-  - 
+  - Will continue to work through the Cisco PCEP course along with the freecodecamp.org course to get a better understanding
+  - Will continue to peruse YouTube videos on topics while on the treadmill or stationary bike to keep learning via immersion osmosis high.
 
 </details>
 ---
