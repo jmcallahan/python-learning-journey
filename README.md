@@ -50,7 +50,8 @@ I'm a U.S. Navy veteran (QM2, 2003-2007) and former Rivian operations leader tra
 #### Code
 
 ```python
- # day two of learning python
+import datetime
+# day two of learning python
 
 
 name = 'Jason Callahan'
@@ -74,7 +75,7 @@ print("hissss....")
 print("I am a snake!")
 print("You are not a snake!")
 print("I am " + name + " and I am " + str(age) + " years old.")
-print("My birthday is on the " + birth_day + " day of " + birth_month + " of the year " + birth_year + " of the muthafuckin' lerd!")
+print("My birthday is on the " + birth_day + " day of " + birth_month + " of the year " + str(birth_year) + " of the muthafuckin lerd!")
 print("Hail to the king, baby!")
 print("and right meow, I am feeling " + current_mood)
 print("alright, meow I'm outtie!")
