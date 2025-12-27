@@ -32,24 +32,6 @@ def check_policy(password):
     
     return all(checks.values()), checks
 
-print("Password Policy Checker")
-print("-" * 40)
-
-for user in users:
-    username = user["username"]
-    password = user["password"]
-    
-    is_valid, results = check_policy(password)
-    
-    print(f"\nUser: {username}")
-    print(f"Password: {password}")
-    print(f"Valid: {is_valid}")
-
-    if is_valid:
-        #hash the password for storage
-        hashed_password = hashlib.sha256(password.encode()).hexdigest()
-        print(f"Hashed Password: {hashed_password}")
-
 def generate_strong_password(length=12):
     """
     Generate a strong password that meets the policy requirements.
